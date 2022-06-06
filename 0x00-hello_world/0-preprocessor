@@ -1,2 +1,2 @@
 #!/bin/bash
-export CFILE=main.c | gcc cmain.c
+export CFILE=0-main.c | gcc 0-main.c
