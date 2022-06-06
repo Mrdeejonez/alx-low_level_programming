@@ -9,3 +9,5 @@
 4-puts.c prints a string to the console 
 
 5-printf.c prints a string to the console
+
+6-sizes.c prints out the sizes of the data types
