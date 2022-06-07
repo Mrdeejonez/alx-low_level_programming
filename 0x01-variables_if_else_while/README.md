@@ -4,3 +4,5 @@
 
 2-print_alphabet prints the alphabet
 
+3-print_alphabets prints lower case and upper case alphabets
+
