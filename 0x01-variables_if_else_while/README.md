@@ -8,3 +8,8 @@
 
 4-print_alphabt prints all the alphbet ommiting e and q
 
+5-print_numbers prints number 0 to 9 
+5-print_numbers prints number 0 to 9 
+5-print_numbers prints number 0 to 9 
+5-print_numbers prints number 0 to 9 
+5-print_numbers prints number 0 to 9 
