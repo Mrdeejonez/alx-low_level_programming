@@ -6,3 +6,5 @@
 
 3-print_alphabets prints lower case and upper case alphabets
 
+4-print_alphabt prints all the alphbet ommiting e and q
+
