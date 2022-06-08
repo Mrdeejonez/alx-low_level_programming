@@ -1,7 +1,8 @@
 #include <unistd.h>
 #include "main.h"
 
-/* print_alphabet - prints the alphabet to the console
+/*
+ * print_alphabet - prints the alphabet to the console
  * @void: nothing
  * Return: void Always (success)
  */
