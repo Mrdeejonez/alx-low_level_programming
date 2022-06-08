@@ -1,16 +1,19 @@
 #include <unistd.h>
-#include "main.c"
+#include "main.h"
 
-/**
- * main - Entry point
- *
- * Return: 0 Always (Success)
+/* print_alphabet - prints the alphabet to the console
+ * @void: nothing
+ * Return: void Always (success)
  */
 
-int main(void)
+void print_alphabet(void)
 {
-	print_alphabet();
+	char alpha;
 
-	return (0);
+	for (alpha = 'a' ; alpha < 'z' ; alpha++)
+	{
+	_putchar(alpha);
+	}
+
+	_putchar('\n');
 }
-
