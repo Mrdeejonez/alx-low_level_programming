@@ -11,7 +11,6 @@ int print_last_digit(int n)
 {
 	int lastNum;
 	int posNumConvert;
-	int num;
 
 	if  (n < 0)
 	{
@@ -20,8 +19,7 @@ int print_last_digit(int n)
 	}
 	else
 	{
-		num = n;
-		lastNum = num;
+		lastNum = n;
 	}
 
 	lastNum = lastNum % 10;
