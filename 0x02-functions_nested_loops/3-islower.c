@@ -1,11 +1,13 @@
 #include "main.h"
 
 /**
- * _islower - Entry point
- * checks of the character is lower
+ * _islower - Entry point checks if @c is lower case
+ *@c: The value parsed to be checked
  *
- * Retruns: 1 (Success)
- * Returns: 0 (Otherwise)
+ *Description: taskes the value against all the lower case alphabet/
+ *and makes sure  *it is is or isnt a lower case
+ *
+ * Return: 1 if true (Success)
  */
 
 int _islower(int c)
